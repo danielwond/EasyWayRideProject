@@ -12,6 +12,8 @@ Log.Logger = new LoggerConfiguration()
     .CreateLogger();
 #endregion
 
+var appsettings = builder.Configuration[""]
+
 builder.Services.ConfigureDbContext();
 builder.Services.ConfigureIdentity();
 

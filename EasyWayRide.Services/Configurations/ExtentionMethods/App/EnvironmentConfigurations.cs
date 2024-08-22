@@ -17,6 +17,11 @@ namespace EasyWayRide.Services.Configurations.ExtentionMethods.App
             {
                 environmentService.isDevelopment = isDev;
             }
+
+            if (!File.Exists("appsettings.json"))
+            {
+                throw (new FileNotFoundException("appsettings.json is not found"));
+            }
         }
     }
 }

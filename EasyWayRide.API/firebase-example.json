@@ -1,0 +1,13 @@
+{
+  "type": "VALUE-HERE",
+  "project_id": "VALUE-HERE",
+  "private_key_id": "VALUE-HERE",
+  "private_key": "VALUE-HERE",
+  "client_email": "VALUE-HERE",
+  "client_id": "VALUE-HERE",
+  "auth_uri": "VALUE-HERE",
+  "token_uri": "VALUE-HERE",
+  "auth_provider_x509_cert_url": "VALUE-HERE",
+  "client_x509_cert_url": "VALUE-HERE",
+  "universe_domain": "VALUE-HERE"
+}
