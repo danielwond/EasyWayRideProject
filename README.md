@@ -1,5 +1,7 @@
 EasyWay Ride Hailing System API
 
+Reuploaded the project because of some mistakes
+
 Overview
 The EasyWay Ride Hailing System API is the backend infrastructure for a ride-hailing platform that connects passengers with drivers. It manages all core functionalities of the system, including ride requests, driver availability, pricing calculations, and real-time updates. The API is built using .NET, with MSSQL as the primary database and Redis as a caching mechanism to ensure high performance and scalability.
 
